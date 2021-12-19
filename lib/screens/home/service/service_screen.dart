@@ -43,7 +43,7 @@ class _ServiceScreenState extends State<ServiceScreen> {
                   ),
                   Center(
                       child: Text(
-                    'Tika Yesi Kristiani',
+                    'Dwi Bagus Ananta',
                   ))
                 ],
               ))
