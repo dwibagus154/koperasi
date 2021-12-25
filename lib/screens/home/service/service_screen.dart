@@ -42,9 +42,10 @@ class _ServiceScreenState extends State<ServiceScreen> {
                         )),
                   ),
                   Center(
-                      child: Text(
-                    'Dwi Bagus Ananta',
-                  ))
+                    child: Text(
+                      'Dwi Bagus Ananta',
+                    ),
+                  )
                 ],
               ))
             ],
